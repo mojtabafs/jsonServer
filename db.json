@@ -12,7 +12,9 @@
     "name": "Sharp Kennedy",
     "gender": "male",
     "company": "VURBO",
-    "email": "sharpkennedy@vurbo.com",
+    "email": {
+      "gmail": "sharpkennedy@gmail.com"
+    },
     "phone": "+1 (972) 483-3166",
     "address": "414 Nevins Street, Tampico, New Jersey, 3470",
     "about": "Excepteur Lorem dolore reprehenderit elit aute id ad sint laboris. Consequat qui cupidatat commodo deserunt nostrud cupidatat sint. Nisi fugiat consequat irure veniam qui dolore amet esse ex tempor. Dolore laboris ex reprehenderit dolor et culpa laborum. Incididunt irure ipsum nostrud cillum fugiat minim est aliqua nisi.\r\n",
@@ -57,7 +59,9 @@
     "name": "Kirkland Chan",
     "gender": "male",
     "company": "EARTHPLEX",
-    "email": "kirklandchan@earthplex.com",
+    "email": {
+      "gmail": "sharpkennedy@gmail.com"
+    },
     "phone": "+1 (923) 502-3686",
     "address": "394 Lawn Court, Marne, West Virginia, 4406",
     "about": "Mollit aute pariatur officia ad esse mollit voluptate culpa. Aliqua id minim veniam aliquip nulla. Voluptate incididunt aliqua exercitation officia ea officia excepteur eu culpa nulla eiusmod nostrud. Exercitation minim dolor fugiat officia cillum aute voluptate. Dolore mollit ut excepteur non ad tempor nisi ex amet eiusmod anim. Ea id ut sit occaecat duis eu ex commodo eiusmod magna.\r\n",
@@ -102,7 +106,9 @@
     "name": "Ayers Cohen",
     "gender": "male",
     "company": "PLAYCE",
-    "email": "ayerscohen@playce.com",
+    "email": {
+      "gmail": "sharpkennedy@gmail.com"
+    },
     "phone": "+1 (933) 492-2407",
     "address": "534 Covert Street, Whipholt, Iowa, 8635",
     "about": "Incididunt irure nulla nostrud dolore consequat. Dolor Lorem fugiat incididunt velit laboris pariatur in ex officia enim consequat ipsum ex. In eu Lorem ullamco eiusmod aliquip irure aliqua et ipsum velit. Dolore consectetur sunt commodo dolor Lorem aliquip veniam. Elit duis nulla tempor occaecat occaecat cillum ut ullamco occaecat ea ea consequat ea cupidatat. Duis minim irure sunt eu sit.\r\n",
@@ -147,7 +153,9 @@
     "name": "Justice Simon",
     "gender": "male",
     "company": "FROLIX",
-    "email": "justicesimon@frolix.com",
+    "email": {
+      "gmail": "sharpkennedy@gmail.com"
+    },
     "phone": "+1 (884) 475-3864",
     "address": "271 Kings Place, Bordelonville, Northern Mariana Islands, 4452",
     "about": "Consequat culpa occaecat culpa adipisicing aliquip labore labore mollit non sit adipisicing non. Mollit sit est irure commodo sint veniam veniam laboris sunt sit quis anim. Non cillum dolor sunt nostrud anim. Adipisicing sit sint aliquip et qui incididunt sunt nostrud in consectetur. Culpa nulla nulla eiusmod esse eu est do. Velit consequat consequat eu veniam excepteur mollit exercitation.\r\n",
@@ -192,7 +200,9 @@
     "name": "Irwin Reilly",
     "gender": "male",
     "company": "ORONOKO",
-    "email": "irwinreilly@oronoko.com",
+    "email": {
+      "gmail": "sharpkennedy@gmail.com"
+    },
     "phone": "+1 (937) 505-3242",
     "address": "548 Ryder Avenue, Idledale, Virgin Islands, 8531",
     "about": "Consectetur veniam fugiat fugiat consectetur cillum minim esse incididunt. Nisi ullamco culpa pariatur velit do do labore velit qui esse non. Veniam aliqua exercitation in dolor incididunt consectetur.\r\n",
@@ -237,7 +247,9 @@
     "name": "Jewel Vargas",
     "gender": "female",
     "company": "PHOTOBIN",
-    "email": "jewelvargas@photobin.com",
+    "email": {
+      "gmail": "sharpkennedy@gmail.com"
+    },
     "phone": "+1 (820) 438-3948",
     "address": "718 Commercial Street, Tilden, Federated States Of Micronesia, 3948",
     "about": "Aliquip cupidatat quis do sint eu voluptate nulla commodo fugiat officia enim ea. Ex tempor veniam amet nulla. Consequat minim pariatur ad eiusmod fugiat aliqua irure aliqua laborum enim nulla commodo. Culpa exercitation commodo adipisicing aliqua sint ea velit enim reprehenderit voluptate cupidatat mollit. Nulla do qui cillum qui dolor ea cillum elit esse. Aliqua cupidatat Lorem aliqua tempor tempor esse amet qui nulla laborum magna occaecat et amet. Cillum nostrud incididunt id aliquip ex occaecat ullamco cillum anim veniam occaecat.\r\n",
