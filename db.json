@@ -14,7 +14,8 @@
     "gender": "male",
     "company": "VURBO",
     "email": {
-      "gmail": "sharpkennedy@gmail.com"
+      "gmail": "sharpkennedy@gmail.com",
+      "email": "sharpkennedy@mail.com"
     },
     "phone": "+1 (972) 483-3166",
     "address": "414 Nevins Street, Tampico, New Jersey, 3470",
@@ -62,7 +63,8 @@
     "gender": "male",
     "company": "EARTHPLEX",
     "email": {
-      "gmail": "sharpkennedy@gmail.com"
+      "gmail": "sharpkennedy@gmail.com",
+      "email": "sharpkennedy@mail.com"
     },
     "phone": "+1 (923) 502-3686",
     "address": "394 Lawn Court, Marne, West Virginia, 4406",
